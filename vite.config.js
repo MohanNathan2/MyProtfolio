@@ -6,8 +6,8 @@ export default defineConfig({
   plugins: [react()],
   build: {
     assetsDir: "assets", // Specify your assets directory
-    rollupOptions: {
-      external: ['emailjs-com'], // Add any other external modules as needed
-    },
+    // rollupOptions: {
+    //   external: ['emailjs-com'], // Add any other external modules as needed
+    // },
   },
 });
