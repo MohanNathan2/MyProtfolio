@@ -52,7 +52,7 @@ const Hero = () => {
               // data-aos="fade-up"
               className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
             >
-            I'm a React front-end developer with a 2+ years of experience. I'm passionate about creating functional and visually appealing websites that provide a great user experience. I'm currently learning UI/UX design to further enhance my skills.
+            I'm a React front-end developer with a 2+ years of experience. I'm passionate about creating functional and visually appealing websites that provide a great user experience. I'm currently learning UI/UX design , React Native & Azure Devops to further enhance my skills.
             I specialize in creating responsive web applications using React, Next, JavaScript, HTML, Vue and CSS. I have experience working with front-end frameworks such as Redux, Bootstrap, Antd and Material-UI.
 
             </p>
